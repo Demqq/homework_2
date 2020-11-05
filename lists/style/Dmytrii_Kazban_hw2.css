@@ -8,13 +8,10 @@ body {
 }
 
 
-    
-    
-}
 .ol {
     margin: 30px;
     list-style-image: top;
-    color: red;
+    color:whitesmoke;
     list-style-type: upper-alpha;
 }
 h1 {
@@ -23,25 +20,19 @@ h1 {
     color: rgba(550, 0, 0, 1000);
 }
 
-.orderd {
-    
-
-
-}
-
 .unorderd {
     
     float: right;
 }
 
-#li {color: red;
+#list1 {color:whitesmoke;
     margin-bottom: 30px;
     height: 500px;
     width: 500px;
     background-image: url(../img/porsche1.png);
 }
 
-#li1{
+#list2{
     color: red;
     margin: 30px;
     height: 500px;
@@ -49,8 +40,8 @@ h1 {
     background-image: url(../img/rwb.png);
 }
 
-#li2 {
-    color: red;
+#list3 {
+    color:whitesmoke;
     height: 500px;
     width: 500px;
     background-image: url(../img/rwb1.png);
