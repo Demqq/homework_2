@@ -1,0 +1,64 @@
+body {
+    margin: auto auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../img/background.png);
+   background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+    
+    
+}
+.ol {
+    margin: 30px;
+    list-style-image: top;
+    color: red;
+    list-style-type: upper-alpha;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    color: rgba(550, 0, 0, 1000);
+}
+
+.orderd {
+    
+
+
+}
+
+.unorderd {
+    
+    float: right;
+}
+
+#li {color: red;
+    margin-bottom: 30px;
+    height: 500px;
+    width: 500px;
+    background-image: url(../img/porsche1.png);
+}
+
+#li1{
+    color: red;
+    margin: 30px;
+    height: 500px;
+    width: 500px;
+    background-image: url(../img/rwb.png);
+}
+
+#li2 {
+    color: red;
+    height: 500px;
+    width: 500px;
+    background-image: url(../img/rwb1.png);
+}
+
+.last_img {
+    display: flex;
+    justify-content: center;
+    margin-top: 400px;
+    margin-bottom: 30px;    
+}
